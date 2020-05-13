@@ -18,4 +18,4 @@ const determine = (num) => {
     }
 }
 
-determine(12345)
+determine(8476)
